@@ -2,17 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+```Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+```[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Over the last few years, automatic facial micro-expression (ME) analysis has garnered increasing attention from experts from a broad range of disciplines-- psychologists, neuroscientists, criminologists, and now computer scientists, due to its potential in various clinical diagnosis, forensic investigation and security. Micro-expressions are very brief, subtle and involuntary facial expressions which normally occur when a person either deliberately or unconsciously conceals his/her genuine emotions. Compared to ordinary expressions, MEs usually occupy a short duration of 1/25 to 1/5 of a second, with significantly low intensity motion; this which may be unperceivable to the naked eye, can be captured through high-speed cameras. Hence, the advances in computer algorithms and video acquisition technology have rendered machine analysis of facial MEs possible today, in contrast to a primarily manual and expert-driven domain decades ago. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The study of micro-expressions is well-established in psychology, but still relatively new from the computational— i.e. computer vision and pattern recognition perspectives. However, the number of works in ME analysis have surged in the last few years (2014-2018), owing to an expanding number of datasets, increase in computation power, and substantial growth of interest from the computer vision community. This culminated in the inaugural Micro-Expression Grand Challenge (MEGC) which was organized at IEEE FG 2018.
 
-# Header 1
+In this tutorial, we will give a concise and comprehensive overview to the domain of facial micro-expression analysis, its specific tasks of spotting and recognition, and challenges to computer vision researchers. First, we briefly introduce the topic of facial MEs and provide a background overview. This is followed by the discussion of existing ME databases. Secondly, we present the ME spotting task, highlighting various preprocessing stages and various spotting techniques. Thirdly, we present the ME recognition task, curating a number of prominent works that constitute technological milestones. The experimental protocol and metrics involved in these two tasks will also be elaborated. Lastly, we present some problematic issues and discuss some open challenges to the computer vision community to help develop feasible algorithms in the future. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+# Tutorial Topics
+
+1. Introduction and Overview to Facial Micro-Expressions
+2. Micro-Expression Datasets
+3. Micro-Expression Spotting Task
+4. Micro-Expression Recognition Task
+5. Challenges and Future Avenues in ME Analysis
+
+Tutorial ends with an open session for questions and discussions.
+
+
+## Tutorial Speakers
+* **John See** (Multimedia University, Malaysia; Shanghai Jiao Tong University, China)
+* **Anh Cat Le Ngo** (TrustingSocial)
+* **Sze-Teng Liong** (Feng Chia University, Taiwan) 
+
 
 ## Header 2
 
