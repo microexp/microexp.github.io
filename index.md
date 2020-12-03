@@ -20,11 +20,11 @@ In this tutorial, we will give a concise and comprehensive overview to the domai
 4. Micro-Expression Recognition Task [[pdf]](./pdf/fmea_accv2020_part4.pdf)
 5. Challenges and Future Avenues in ME Analysis [[pdf]](./pdf/fmea_accv2020_part5.pdf)
 
-# Special Presentations
+# Special Topics (within Tutorial)
 
-A. Establishing SAMM Dataset [[pdf]](./pdf/fmea_accv2020_samm.pdf)
-B. ME Data Annotation [[pdf]](./pdf/fmea_accv2020_annotation.pdf)
-C. Recent Approaches on Spotting ME Sequences [[pdf]](./pdf/fmea_accv2020_spottingseq.pdf)
+- Establishing SAMM Dataset [[pdf]](./pdf/fmea_accv2020_samm.pdf)
+- ME Data Annotation [[pdf]](./pdf/fmea_accv2020_annotation.pdf)
+- Recent Approaches on Spotting ME Sequences [[pdf]](./pdf/fmea_accv2020_spottingseq.pdf)
 
 
 Duration: ~ 3 hours, starts from 2.00PM (UTC+08)
